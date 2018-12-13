@@ -1,5 +1,12 @@
 firsst hisense
 you can sett it good
 hello nihoa bushi bjidjgo
+<<<<<<< HEAD
 
 hisense huawei zhongxing
+=======
+nihoho
+
+dev 分支不是吗
+准备合并 不是吗
+>>>>>>> dev
