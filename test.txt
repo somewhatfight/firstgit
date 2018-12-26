@@ -4,3 +4,8 @@ hha wo you feilail bushi ma heeh
 不错的噢噢
 加油
 实验一下洛
+编程语言规范怎么写
+#include<stdio.h>
+void main(){
+  retun 0
+}
