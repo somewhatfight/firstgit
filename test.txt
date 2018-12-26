@@ -7,5 +7,6 @@ hha wo you feilail bushi ma heeh
 编程语言规范怎么写
 #include<stdio.h>
 void main(){
+  hello world!
   retun 0
 }
