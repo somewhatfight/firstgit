@@ -7,6 +7,7 @@ hha wo you feilail bushi ma heeh
 编程语言规范怎么写
 #include<stdio.h>
 void main(){
+  //向世界问号，不是吗？
   hello world!
   for(int i = 0;i<3;i++){
       print(i);
