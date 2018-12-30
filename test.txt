@@ -12,5 +12,6 @@ void main(){
   for(int i = 0;i<3;i++){
       print(i);
   }
+ //不好的东西不要过多的纠缠，这个世界不讲道理
   retun 0;
 }
